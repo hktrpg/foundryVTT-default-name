@@ -1,0 +1,21 @@
+{
+    "name": "Default Name",
+    "title": "Default Name",
+    "description": "With default name when create Actor, item",
+    "version": "1.0.0",
+    "author": "Sad",
+    "scripts": ["./index.js"],
+    "styles": [],
+    "packs": [],
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+    }],
+    "socket": true,
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.7.9",
+    "url": "https://github.com/hktrpg/foundryVTT-default-name",
+    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryVTT-default-name/master/module.json",
+    "download": "https://github.com/hktrpg/foundryVTT-default-name/archive/main.zip"
+}
