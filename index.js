@@ -6,17 +6,8 @@ class defaultName {
     }
 
 }
-Hooks.on("render", (v) => {
-    concole.log(v)
-})
-Hooks.on("render", (v) => {
-    concole.log(v)
-})
-Hooks.on("Application", (v) => {
+Hooks.on("renderDialog ", (v) => {
     concole.log(v)
 })
 
-Hooks.on("render", (v) => {
-    concole.log(v)
-})
 Hooks.once("ready", defaultName.keepAnEyeOut);
