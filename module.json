@@ -2,7 +2,7 @@
     "name": "Default Name",
     "title": "Default Name",
     "description": "With default name when create Actor, item",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Sad",
     "scripts": ["./index.js"],
     "styles": [],
