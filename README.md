@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v0.6.2-informational)
-<a href="https://patreon.com/HKTRPG"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%HKTRPG%26type%3Dpatrons&style=for-the-badge" /></a>
+<a href="https://patreon.com/HKTRPG"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api/?username=HKTRPG&type=patrons" /></a>
 
 
 # Focus and Default Name
