@@ -6,7 +6,15 @@ class defaultName {
     }
 
 }
-
+Hooks.on("render", (v) => {
+    concole.log(v)
+})
+Hooks.on("render", (v) => {
+    concole.log(v)
+})
+Hooks.on("Application", (v) => {
+    concole.log(v)
+})
 
 Hooks.on("render", (v) => {
     concole.log(v)
