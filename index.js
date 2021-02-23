@@ -7,7 +7,7 @@ class defaultName {
 
 }
 Hooks.on("renderDialog", (v) => {
-    concole.log(v)
+    console.log(v)
 })
 
 Hooks.once("ready", defaultName.keepAnEyeOut);
