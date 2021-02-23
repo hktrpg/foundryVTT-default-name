@@ -6,7 +6,7 @@ class defaultName {
     }
 
 }
-Hooks.on("renderDialog ", (v) => {
+Hooks.on("renderDialog", (v) => {
     concole.log(v)
 })
 
