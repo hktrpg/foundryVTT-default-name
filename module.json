@@ -1,7 +1,7 @@
 {
     "name": "Default-Name",
     "title": "Focus and Default Name",
-    "description": "Focus and with default name when create new Actor, item...etc",
+    "description": "Focus on name prompts and allow without enter name when create new Actor, item...etc.",
     "version": "1.1.0",
     "author": "Sad",
     "scripts": [
