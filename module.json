@@ -20,6 +20,6 @@
     "minimumCoreVersion": "0.6.2",
     "compatibleCoreVersion": "0.8.7",
     "url": "https://github.com/hktrpg/foundryVTT-default-name",
-    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryVTT-default-name/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryVTT-default-name/main/module.json",
     "download": "https://github.com/hktrpg/foundryVTT-default-name/archive/main.zip"
 }
