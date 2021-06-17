@@ -4,7 +4,7 @@
 
 # Focus and Default Name
 
-Focus and with default name when create new Actor, item...etc.
+Focus on name prompts and allow without enter name when create new Actor, item...etc.
 
 
 ![](./readme.gif)
