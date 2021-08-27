@@ -29,17 +29,7 @@ Hooks.on("renderFolderConfig", (dialog, $element) => {
     }
 });
 
-Hooks.on("renderApplication", (dialog, $element) => {
-    isDefaultName = game.settings.get("default_name", "isDefaultName");
-    if ($element.find(`div#module-management`) && $element.find(`input[type=text]`)[0]) {
-        $element.find(`input[type=text]`)[0].focus();
-        return;
-    }
-    if ($element.find(`input[type=text]`)[0] && !$element.find(`input[type=text]`)[0].value) {
-        if (isDefaultName) $element.find(`input[type=text]`)[0].value = $element.find(`input[type=text]`)[0].placeholder || 'New Item';
-        $element.find(`input[type=text]`)[0].focus();
-    }
-});
+
 
 Hooks.on("preCreateScene", (dialog) => {
     if (!dialog.name) dialog.name = 'New';
