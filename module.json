@@ -21,5 +21,5 @@
     "compatibleCoreVersion": "0.8.9",
     "url": "https://github.com/hktrpg/foundryVTT-default-name",
     "manifest": "https://raw.githubusercontent.com/hktrpg/foundryVTT-default-name/main/module.json",
-    "download": "https://github.com/hktrpg/foundryVTT-default-name/archive/main.zip"
+    "download": "https://github.com/hktrpg/foundryVTT-default-name/releases/latest/download/module.zip"
 }
