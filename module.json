@@ -3,7 +3,7 @@
     "title": "Focus and Default Name",
     "description": "Focus on name prompts and allow without enter name when create new Actor, item...etc.",
     "version": "1.1.1",
-    "author": "Sad",
+    "author": "Sad, HKTRPG",
     "scripts": [
         "./index.js"
     ],
